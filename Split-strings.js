@@ -23,3 +23,5 @@ function solution(str) {
   }
   return result;
 }
+
+// or
